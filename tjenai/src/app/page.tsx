@@ -19,12 +19,15 @@ const languages: Language[] = [
   { id: "es", flag: "🇪🇸", name: "Spanish" },
   { id: "fr", flag: "🇫🇷", name: "French" },
   { id: "de", flag: "🇩🇪", name: "German" },
+  { id: "sv", flag: "🇸🇪", name: "Swedish" },
   { id: "it", flag: "🇮🇹", name: "Italian" },
+  { id: "ar", flag: "🇸🇦", name: "Arabic" },
+  { id: "ar-levant", flag: "🇱🇧", name: "Levantine Arabic" },
+  { id: "ar-egypt", flag: "🇪🇬", name: "Egyptian Arabic" },
   { id: "pt", flag: "🇵🇹", name: "Portuguese" },
   { id: "ru", flag: "🇷🇺", name: "Russian" },
   { id: "zh", flag: "🇨🇳", name: "Chinese" },
   { id: "ja", flag: "🇯🇵", name: "Japanese" },
-  { id: "ar", flag: "🇸🇦", name: "Arabic" },
 ];
 
 const levels = ["beginner", "intermediate", "fluent"] as const;
