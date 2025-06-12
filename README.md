@@ -27,10 +27,3 @@ Visit the website here: https://tjenai.vercel.app/
 - OpenAI API – Powers the chatbot with GPT for dynamic responses and corrections
 
 
-Support for multiple simultaneous conversations
-
-User accounts to save learning progress
-
-📄 License
-This project is open source and available under the MIT License.
-
